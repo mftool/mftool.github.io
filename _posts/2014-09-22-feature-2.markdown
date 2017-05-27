@@ -1,0 +1,9 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Feature 2
+description: |
+---
+
+Description of feature 2
