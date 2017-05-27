@@ -1,0 +1,30 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://mfdiff.schhanoi.com
+title: Tools for Mendix
+email: d.bui@schhanoi.com
+author: DUC BUI
+description: Website for Mf Diff Tool 
+copyright: 'Copyright &copy; 2017 DUC BUI. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/vietduc1441
+
+port : 4001
+host: 0.0.0.0
