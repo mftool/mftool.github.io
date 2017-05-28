@@ -5,4 +5,7 @@ category: Services
 title: Precise comparison
 description: |
 ---
-  Description of feature 1
+
+We compare all details of Mendix microflow including:
+  - Properties of microflow action
+  - Properties of microflow

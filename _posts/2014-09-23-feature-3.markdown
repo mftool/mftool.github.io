@@ -6,4 +6,7 @@ title: Run on all OS
 description: |
 ---
 
-Feature 3
+There are distributions to run on:
+    - Windows
+    - MacOs
+    - Linux
