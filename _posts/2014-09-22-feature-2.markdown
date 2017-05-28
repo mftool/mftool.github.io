@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: Feature 2
+title: Great visual interaction
 description: |
 ---
 

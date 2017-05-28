@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Feature 1
+title: Precise comparison
 description: |
 ---
   Description of feature 1
