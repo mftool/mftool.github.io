@@ -5,8 +5,7 @@ category: Services
 title: Run on all OS
 description: |
 ---
-
 There are distributions to run on:
-    - Windows
-    - MacOs
-    - Linux
+  - Windows
+  - MacOs
+  - Linux

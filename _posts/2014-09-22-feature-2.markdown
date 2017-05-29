@@ -8,10 +8,10 @@ description: |
 
 The tool helps you detect the changes and navigate in easiest way:
 
-    - Coloring border of modified (blue), inserted (green), deleted (red) microflow action
-    - Side-by-side visual differencing
-    - Click to navigate/highlight changes and coresponding mircoflow action
-    - Overview bar to show all changes happend
-    - Hide/show the similar information
-    - Hide/show side or position difference
+  - Coloring border of modified (blue), inserted (green), deleted (red) microflow action
+  - Side-by-side visual differencing
+  - Click to navigate/highlight changes and coresponding mircoflow action
+  - Overview bar of all changes 
+  - Hide/show the similar information
+  - Hide/show side or position difference
 
