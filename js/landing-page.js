@@ -28,4 +28,8 @@ $('div.modal').on('show.bs.modal', function() {
 			$(modal).modal('hide');
 		}
 	}
+}); 
+$(document).ready(function(){
+  $('.review').slick({
+  });
 });
