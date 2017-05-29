@@ -1,6 +1,7 @@
 ---
 layout: default
-img: dog.png
+img:
+video: https://www.youtube.com/embed/Bnskh7YNqTs?rel=0
 category: Services
 title: Great visual interaction
 description: |

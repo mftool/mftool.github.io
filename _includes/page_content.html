@@ -15,9 +15,14 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6"> 
+				{% if post.img != null %}
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt=""> 
+				{% else  %} 
+				    <iframe width="640" height="360" src="{{ post.video }}" frameborder="0" ></iframe>
+				{% endif %}
                 </div>
             </div>
+
 
         </div>
         <!-- /.container -->
@@ -38,8 +43,12 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-
-                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+				{% if post.img != null %}
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt=""> 
+				{% else  %} 
+				    <iframe width="640" height="360" src="{{ post.video }}" frameborder="0" ></iframe>
+				{% endif %}
+                </div>
 
                 </div>
             </div>
