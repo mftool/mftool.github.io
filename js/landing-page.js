@@ -30,6 +30,10 @@ $('div.modal').on('show.bs.modal', function() {
 	}
 }); 
 $(document).ready(function(){
-  $('.review').slick({
-  });
+  $('.review').slick({ 
+		  lidesToShow: 3,
+		  slidesToScroll: 1,
+		  autoplay: true,
+		  autoplaySpeed: 5000
+});
 });
