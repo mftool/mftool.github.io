@@ -3,7 +3,7 @@ layout: default
 img:
 video: https://www.youtube.com/embed/hNBJ8GYcc0U?ecver=1
 category: Services
-title: Great visual interaction
+title: Intuitive visual interaction
 description: |
 ---
 
