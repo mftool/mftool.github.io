@@ -9,3 +9,4 @@ description: |
 We compare all details of Mendix microflow including:
   - Properties of microflow action
   - Properties of microflow
+  - Between different branches
