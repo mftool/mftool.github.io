@@ -1,0 +1,12 @@
+---
+layout: default
+
+category: Services
+title: Domain model diff
+description: |
+---
+
+We compare all changes of Mendix DomainModel including:
+  - Properties of Entity
+  - Properties of Attribute
+  - Between different branches
