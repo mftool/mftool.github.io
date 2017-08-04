@@ -1,6 +1,6 @@
 ---
 layout: default
-
+image: comparedm.png
 category: Services
 title: Domain model diff
 description: |
